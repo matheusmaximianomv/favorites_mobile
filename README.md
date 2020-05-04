@@ -22,7 +22,7 @@
 ## Apresentação
 <p align="center">
 Aplicação mobile desenvolvida em React Native, afim de utilizar API do github para salvar os usuários preferidos e também acessar os repositórios que eles seguem.<br/><br/>
-<img width="50%" src="./.github/presentation.gif"/>
+<img width="25%" src="./.github/presentation.gif"/>
 </p>
 
 ## Tecnologias
