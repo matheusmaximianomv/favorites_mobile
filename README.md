@@ -1,6 +1,6 @@
 <h1 align="center">Github Favoritos - Mobile</h1>
 <p align="center">
-  <img src="./.git/icon.png" height="150" width="175" alt="Icon" />
+  <img src="./.github/icon.png" height="150" width="175" alt="Icon" />
 </p>
 <p align="center">
   Salve em seu dispositivo seus usuários do github favoritos e acompanhe quais repositórios eles seguem...
@@ -22,7 +22,7 @@
 ## Apresentação
 <p align="center">
 Aplicação mobile desenvolvida em React Native, afim de utilizar API do github para salvar os usuários preferidos e também acessar os repositórios que eles seguem.<br/><br/>
-<img width="50%" src="./.git/presentation.gif"/>
+<img width="50%" src="./.github/presentation.gif"/>
 </p>
 
 ## Tecnologias
